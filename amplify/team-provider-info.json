@@ -10,6 +10,11 @@
             "StackName": "amplify-amazonkinesisvideost-dev-131426",
             "StackId": "arn:aws:cloudformation:us-west-2:669938129751:stack/amplify-amazonkinesisvideost-dev-131426/9c16dfc0-dc84-11ea-b1cd-0683a9b3ada6",
             "AmplifyAppId": "d2nk524ijklje7"
+        },
+        "categories": {
+            "auth": {
+                "amazonkinesisvideost7461bbc3": {}
+            }
         }
     }
 }
