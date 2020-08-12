@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amazonkinesisvideost-dev-131426-authRole",
+            "UnauthRoleArn": "arn:aws:iam::669938129751:role/amplify-amazonkinesisvideost-dev-131426-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::669938129751:role/amplify-amazonkinesisvideost-dev-131426-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-amazonkinesisvideost-dev-131426-deployment",
+            "UnauthRoleName": "amplify-amazonkinesisvideost-dev-131426-unauthRole",
+            "StackName": "amplify-amazonkinesisvideost-dev-131426",
+            "StackId": "arn:aws:cloudformation:us-west-2:669938129751:stack/amplify-amazonkinesisvideost-dev-131426/9c16dfc0-dc84-11ea-b1cd-0683a9b3ada6",
+            "AmplifyAppId": "d2nk524ijklje7"
+        }
+    }
+}
